@@ -133,3 +133,4 @@ CMakeLists.txt.user*
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,cmake,c++,git,qt
+.vscode/tasks.json
